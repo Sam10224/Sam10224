@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sam10224
 - 👀 I’m interested in programming
 - 🌱 I’m currently a software engineering student
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on -->
 - 📫 sam.joseph35577@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
